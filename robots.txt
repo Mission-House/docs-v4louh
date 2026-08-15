@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ei3ve2.kujang138btc.space/sitemap.xml
